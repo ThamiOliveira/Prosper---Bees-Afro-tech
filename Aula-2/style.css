@@ -1,0 +1,16 @@
+
+#nomeCachorro{
+    color: rgb(109, 202, 255);
+}
+#nomeCalopsita{
+    color: rgba(111, 113, 247, 0.507);
+}
+.corFundoCinza{
+    background-color: gray;
+}
+button{
+    border-radius: 30%;
+    width: 100px;
+    height: 35px;
+    background-color: rgb(224, 195, 250);
+}
